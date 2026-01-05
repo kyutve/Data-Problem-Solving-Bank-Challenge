@@ -5,6 +5,7 @@ Data Problem Solving Bank Competition
 
 ### Team
 **Coxmos**
+![Ministerial Award](with_my_team.jpg)
 
 ### Presentation
 📑 [Presentation Slides (PDF)](presentation.pdf)
