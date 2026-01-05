@@ -5,7 +5,7 @@ Data Problem Solving Bank Competition
 
 ### Team
 **Coxmos**
-![Ministerial Award](with_my_team.jpg)
+
 
 ### Presentation
 📑 [Presentation Slides (PDF)](presentation.pdf)
@@ -13,3 +13,6 @@ Data Problem Solving Bank Competition
 ### Official Links
 - https://kdata.or.kr/datahub/portal/support/board/10/34
 - https://kdata.or.kr/datahub/portal/support/board/10/41
+
+### Photo
+![Ministerial Award](with_my_team.jpg)
